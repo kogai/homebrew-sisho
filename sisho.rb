@@ -1,6 +1,6 @@
 require 'formula'
 
-TOOL_VERSION = '0.1.4'
+TOOL_VERSION = '0.1.2'
 
 class Sisho < Formula
 
